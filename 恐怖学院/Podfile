@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+target ‘恐怖学院’ do
+
+pod 'JDStatusBarNotification'
+pod 'Masonry'
+pod 'YYKit'
+pod 'SDWebImage'
+use_frameworks!
+pod "ShowAPI_SDK"
+
+end

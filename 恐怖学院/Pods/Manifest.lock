@@ -1,0 +1,45 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - JDStatusBarNotification (1.5.5)
+  - Masonry (1.0.2)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - ShowAPI_SDK (0.1.2):
+    - AFNetworking (~> 3.0)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - JDStatusBarNotification
+  - Masonry
+  - SDWebImage
+  - ShowAPI_SDK
+  - YYKit
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  JDStatusBarNotification: 2b4f29bd68a60d7aa2f190b5265f1ce59c18aaf8
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  ShowAPI_SDK: 3681b145a540eda058d3c49bfe38e211f72e7d9e
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 39b2290098a795bdc12a66ac72932f73cdd1c447
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,6 @@
+framework module ShowAPI_SDK {
+  umbrella header "ShowAPI_SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
